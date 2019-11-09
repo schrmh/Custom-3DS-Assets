@@ -4,8 +4,8 @@ asks for it..
 -------------  
 
 URLs:  
-Discord: https://discord.gg/0z7IGZ5Sv3D0mEN0 
-Matrix: https://matrix.to/#/+custom-3ds-assets:matrix.org
+Discord: https://discord.gg/0z7IGZ5Sv3D0mEN0  
+Matrix: https://matrix.to/#/+custom-3ds-assets:matrix.org  
 System Settings customization tutorial: https://gbatemp.net/threads/customize-your-system-settings-app.492960/  
 System Settings customization documentation: https://docs.google.com/spreadsheets/d/1SLUOmEz57aaPVL7kdH6uBhhKwSr1A1Oze3XjJJ-qaEU   
 
